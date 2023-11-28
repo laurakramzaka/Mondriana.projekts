@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+}
+
+.grid-container {
+display: grid;
+grid-template-columns: 320px 428px 50px;
+grid-template-rows: 414px 414px 130px;
+gap: 9px;
+background-color: #000;
+
+
+
+}
+
+
+.pirmais {
+background-color: #E72F24;
+
+}
+
+
+.otrais {
+background-color: #F0F1EC;
+
+
+}
